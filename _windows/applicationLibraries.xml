@@ -198,6 +198,34 @@
         <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/crass-1.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.1, ruby-2.4.3-p205 (1)) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/debase-0.2.1/lib" />
+        <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/debase-0.2.1/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/debase-0.2.1/lib" />
+        <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/debase-0.2.1/ext" />
+      </SOURCES>
+    </library>
+    <library name="debase (v0.2.2.beta11, ruby-2.4.3-p205 (1)) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/ext" />
+        <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/ext" />
+        <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.2, ruby-2.4.3-p205 (1)) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/debase-ruby_core_source-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/debase-ruby_core_source-0.10.2/lib" />
+      </SOURCES>
+    </library>
     <library name="did_you_mean (v1.1.0, ruby-2.4.3-p205 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/did_you_mean-1.1.0/evaluation" />
@@ -616,6 +644,18 @@
         <root url="file://C:/Ruby24/lib/ruby/2.4.0/rdoc/context" />
         <root url="file://C:/Ruby24/lib/ruby/2.4.0/rdoc/stats" />
         <root url="file://C:/Ruby24/lib/ruby/2.4.0/rdoc/ri" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1.beta11, ruby-2.4.3-p205 (1)) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.1.beta11/ext" />
+        <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.1.beta11/bin" />
+        <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.1.beta11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.1.beta11/ext" />
+        <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.1.beta11/bin" />
+        <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/ruby-debug-ide-0.6.1.beta11/lib" />
       </SOURCES>
     </library>
     <library name="rubyzip (v1.2.1, ruby-2.4.3-p205 (1)) [gem]">
