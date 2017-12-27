@@ -388,6 +388,16 @@
         <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/crass-1.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.1, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/debase-0.2.1/ext" />
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/debase-0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/debase-0.2.1/ext" />
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/debase-0.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.2.1, ruby-2.4.3-p205 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/debase-0.2.1/lib" />
@@ -398,6 +408,16 @@
         <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/debase-0.2.1/ext" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.2.beta11, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/debase-0.2.2.beta11/lib" />
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/debase-0.2.2.beta11/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/debase-0.2.2.beta11/lib" />
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/debase-0.2.2.beta11/ext" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.2.2.beta11, ruby-2.4.3-p205 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/ext" />
@@ -406,6 +426,14 @@
       <SOURCES>
         <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/ext" />
         <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/debase-0.2.2.beta11/lib" />
+      </SOURCES>
+    </library>
+    <library name="debase-ruby_core_source (v0.10.2, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/debase-ruby_core_source-0.10.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/debase-ruby_core_source-0.10.2/lib" />
       </SOURCES>
     </library>
     <library name="debase-ruby_core_source (v0.10.2, ruby-2.4.3-p205 (1)) [gem]">
@@ -1116,6 +1144,18 @@
         <root url="file://C:/Ruby23/lib/ruby/2.3.0/rdoc/context" />
         <root url="file://C:/Ruby23/lib/ruby/2.3.0/rdoc/markdown" />
         <root url="file://C:/Ruby23/lib/ruby/2.3.0/rdoc/rd" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1.beta11, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta11/lib" />
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta11/ext" />
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta11/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta11/lib" />
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta11/ext" />
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/ruby-debug-ide-0.6.1.beta11/bin" />
       </SOURCES>
     </library>
     <library name="ruby-debug-ide (v0.6.1.beta11, ruby-2.4.3-p205 (1)) [gem]">
