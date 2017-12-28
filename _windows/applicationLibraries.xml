@@ -200,6 +200,16 @@
         <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/bindex-0.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="bootstrap-datepicker-rails (v1.7.1.1, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/bootstrap-datepicker-rails-1.7.1.1/vendor" />
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/bootstrap-datepicker-rails-1.7.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/bootstrap-datepicker-rails-1.7.1.1/vendor" />
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/bootstrap-datepicker-rails-1.7.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="builder (v3.2.3, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/builder-3.2.3/lib" />
