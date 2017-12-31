@@ -1,5 +1,13 @@
 <application>
   <component name="libraryTable">
+    <library name="actioncable (v5.0.0, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/actioncable-5.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/actioncable-5.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="actioncable (v5.1.4, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/actioncable-5.1.4/lib" />
@@ -14,6 +22,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/actioncable-5.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailer (v5.0.0, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/actionmailer-5.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/actionmailer-5.0.0/lib" />
       </SOURCES>
     </library>
     <library name="actionmailer (v5.1.4, ruby-2.3.3-p222) [gem]">
@@ -32,6 +48,14 @@
         <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/actionmailer-5.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v5.0.0, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/actionpack-5.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/actionpack-5.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="actionpack (v5.1.4, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/actionpack-5.1.4/lib" />
@@ -46,6 +70,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/actionpack-5.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v5.0.0, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/actionview-5.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/actionview-5.0.0/lib" />
       </SOURCES>
     </library>
     <library name="actionview (v5.1.4, ruby-2.3.3-p222) [gem]">
@@ -64,6 +96,14 @@
         <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/actionview-5.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v5.0.0, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/activejob-5.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/activejob-5.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="activejob (v5.1.4, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/activejob-5.1.4/lib" />
@@ -78,6 +118,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/activejob-5.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v5.0.0, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/activemodel-5.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/activemodel-5.0.0/lib" />
       </SOURCES>
     </library>
     <library name="activemodel (v5.1.4, ruby-2.3.3-p222) [gem]">
@@ -96,6 +144,14 @@
         <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/activemodel-5.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord (v5.0.0, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/activerecord-5.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/activerecord-5.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="activerecord (v5.1.4, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/activerecord-5.1.4/lib" />
@@ -110,6 +166,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/activerecord-5.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v5.0.0, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/activesupport-5.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/activesupport-5.0.0/lib" />
       </SOURCES>
     </library>
     <library name="activesupport (v5.1.4, ruby-2.3.3-p222) [gem]">
@@ -150,6 +214,14 @@
         <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/addressable-2.5.2/tasks" />
         <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/addressable-2.5.2/lib" />
         <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/addressable-2.5.2/data" />
+      </SOURCES>
+    </library>
+    <library name="arel (v7.1.4, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/arel-7.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/arel-7.1.4/lib" />
       </SOURCES>
     </library>
     <library name="arel (v8.0.0, ruby-2.3.3-p222) [gem]">
@@ -482,6 +554,22 @@
         <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/erubi-1.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="erubis (v2.7.0, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/contrib" />
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/doc-api" />
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/lib" />
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/bin" />
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/contrib" />
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/doc-api" />
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/lib" />
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/bin" />
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/erubis-2.7.0/benchmark" />
+      </SOURCES>
+    </library>
     <library name="execjs (v2.7.0, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/execjs-2.7.0/lib" />
@@ -786,6 +874,18 @@
         <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/net-telnet-0.1.1/bin" />
       </SOURCES>
     </library>
+    <library name="nio4r (v1.2.1, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/nio4r-1.2.1/lib" />
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/nio4r-1.2.1/tasks" />
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/nio4r-1.2.1/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/nio4r-1.2.1/lib" />
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/nio4r-1.2.1/tasks" />
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/nio4r-1.2.1/ext" />
+      </SOURCES>
+    </library>
     <library name="nio4r (v2.1.0, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/2.1.0" />
@@ -968,6 +1068,14 @@
         <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/rack-proxy-0.6.3/lib" />
       </SOURCES>
     </library>
+    <library name="rack-test (v0.6.3, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/rack-test-0.6.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/rack-test-0.6.3/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-test (v0.8.2, ruby-2.3.3-p222) [gem]">
       <CLASSES>
         <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/rack-test-0.8.2/lib" />
@@ -982,6 +1090,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/rack-test-0.8.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails (v5.0.0, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/rails-5.0.0" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/rails-5.0.0" />
       </SOURCES>
     </library>
     <library name="rails (v5.1.4, ruby-2.3.3-p222) [gem]">
@@ -1030,6 +1146,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/Ruby24/lib/ruby/gems/2.4.0/gems/rails-html-sanitizer-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="railties (v5.0.0, ruby-2.3.3-p222) [gem]">
+      <CLASSES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/railties-5.0.0/lib" />
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/railties-5.0.0/exe" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/railties-5.0.0/lib" />
+        <root url="file://C:/Ruby23/lib/ruby/gems/2.3.0/gems/railties-5.0.0/exe" />
       </SOURCES>
     </library>
     <library name="railties (v5.1.4, ruby-2.3.3-p222) [gem]">
